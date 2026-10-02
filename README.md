@@ -11,3 +11,5 @@ Class Definitions:
 - AirConditioning: A service class implementing the HomeService interface, responsible for turning the air conditioning on and off. It includes the turnOn() and turnOff() methods.
 - HomeInterface: The facade class that coordinates interactions between the client (HomeApp) and the individual home services. It includes the turnOnAll() and turnOffAll() methods to control all services simultaneously.
 - HomeApp: The client class that uses the HomeInterface to access and utilize home services seamlessly.
+
+<img width="1101" height="805" alt="image" src="https://github.com/user-attachments/assets/37d26900-f840-47ec-a9c4-ca00ba8921a0" />
