@@ -7,4 +7,4 @@ class Light implements HomeService {
     public void turnOff() {
         System.out.println("Light is OFF");
     }
-}
+} 
